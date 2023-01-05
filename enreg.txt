@@ -1,0 +1,16 @@
+ Bouha El Moustapha VOYAGES	سفريات بوه ولد مصطفى 
+Telephone:48775476
+_________________________________________________
+
+NOM:	AAAAAAAAAAAAAAAAAAAAAAAAAAA	:إسم المسافر
+TELEPHONE:	5	:الهاتف
+NUMERO CHAISE:	5	:رقم المقعد
+DIRECTION:	 أنواكشوط	:الوجهة
+	PRIX:	5000	السعر
+_________________________________________________
+
+DATE D'IMPRIMATION:	2023-01-01	:تاريخ الطباعة 
+لا نتحمل المسؤلية بعد 15 يوم
+aucun responsabiliter apres 15 jours
+.................................................
+
